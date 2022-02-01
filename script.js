@@ -24,5 +24,4 @@ vote_section.forEach(function(vote){
         counter--;
         count.innerHTML = counter;
     })
-    gg
 })
